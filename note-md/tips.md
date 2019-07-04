@@ -78,3 +78,25 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 用CMD命令`nslookup www.google.com`测试是否成功。
 
 似乎`curl www.google.com`更靠谱。
+
+# [如何使用vim的系统剪切板](https://www.cnblogs.com/qiyuexin/p/7057686.html)
+
+# docsify [网页book](https://docsify.js.org/#/)
+
+**基于git和node的浏览器网页book应用，可以将markdown转换为好看的网页book**
+
+# 将github上的电子书制作成pdf
+
+快使用 GitBook: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md 
+鉴于我看到很多人收藏了本主题，本人特提供以下傻瓜式教程，适合全年龄段观众
+
+1. 安装 nodejs: https://nodejs.org/en/ 
+2. npm install gitbook-cli -g
+
+3. clone 电子书仓库: https://github.com/astaxie/build-web-application-with-golang 
+4. cd build-web-application-with-golang-master\zh
+
+5. gitbook pdf
+
+然后就会发现生成了 book.pdf
+
