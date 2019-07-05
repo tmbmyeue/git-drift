@@ -18,3 +18,10 @@ with open("path/to/your/file.txt",'w') as f:
 使用 == 来判断。
 
 亦可以使用 `if str1 in str2`来判断是否包含的关系。
+
+### pip install 使用代理
+
+```
+pip install *** --proxy=127.0.0.1:1080
+```
+
